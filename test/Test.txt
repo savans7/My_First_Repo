@@ -1,1 +1,99 @@
 Test 1
+
+// Git History
+
+127  cd Documents/
+  128  mkdir GIT
+  129  mkdir ga25082018
+  130  ls
+  131  cd GIT
+  132  mkdir ga25082018
+  133  ls
+  134  cd ga25082018/
+  135  git init
+  136  ls
+  137  git status
+  138  git add data.txt
+  139  git status
+  140  git commit -m "Grey Atom Testing "
+  141  git log
+  142  git config --global user.email "connecttosavan@gmail.com"
+  143  pwd
+  144  touch data1.txt
+  145  touch data2.txt
+  146  git status
+  147  git commit -m "Temp files"
+  148  git --help
+  149  git add *.txt
+  150  git status
+  151  git commit -m "Temp testing"
+  152  git log
+  153  git log -n 1 --oneline
+  154  ls
+  155  touch t1.pdf
+  156  ls
+  157  touch t2.jpg
+  158  ls
+  159  git status
+  160  git status
+  161  git add .
+  162  git commit -m "test"
+  163  git diff
+  164  git add .
+  165  git -status
+  166  git status
+  167  git diff
+  168  git diff
+  169  git diff
+  170  git add .
+  171  git status
+  172  git commit -m "Testing"
+  173  git log
+  174  git log
+  175  git remote add origin https://github.com/savans7/My_First_Repo.git
+  176  git push -u origin master
+  177  git push -u origin master
+  178  git branch v1
+  179  git checkout v1
+  180  git status
+  181  git add .
+  182  git merged v1
+  183  git merge v1
+  184  git merge master
+  185  git status
+  186   git switch master
+  187  git branch
+  188  git switch master
+  189  git clear
+  190  clear
+  191  git branch
+  192  git checkout master
+  193  git branch
+  194  git log
+  195  git branch v2
+  196  git checkout v2
+  197  git log
+  198  git branch 
+  199  git checkout master
+  200  git log
+  201  git branch
+  202  git add .
+  203  git commit -m "Line 7"
+  204  git merge v2
+  205  git branch
+  206  git branch v3
+  207  git branch
+  208  git checkout v3
+  209  git branch
+  210  git add .
+  211  git commit -m "line 8"
+  212  git checkout master
+  213  git merge v3
+  214  git log -n 1
+  215  ls
+  216  cd Documents/GIT/ga25082018/
+  217  git stastus
+  218  git status
+  219  git add .
+  220  git commit -m 'Test 1'
+  221  git push -u origin master
